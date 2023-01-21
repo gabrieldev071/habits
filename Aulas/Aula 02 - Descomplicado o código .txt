@@ -1,0 +1,9 @@
+Box Model
+
+- **Tudo são caixas**
+    
+    Todos os elementos HTML serão considerados uma caixa, assim como uma caixa de papelão
+    
+- **Caixas possuem determinadas propriedades**
+    
+    Conteúdo, Largura, Altura, Borda, Preenchimento (espaço interno), Espaçamento (espaço externo)
