@@ -11,6 +11,8 @@ button.addEventListener("click", add)
 /* adicionando evento após ocorrer alterações no form do HTML e chama a função save */
 form.addEventListener("change", save)
 
+const dias = 10;
+
 function add() {
   const today = new Date().toLocaleDateString('pt-br').slice(0,-5)
 /*   const today = "21/01" */
